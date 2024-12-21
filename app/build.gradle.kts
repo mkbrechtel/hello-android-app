@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.helloandroidapp"
-    compileSdk = 34
+    namespace = "com.example.hello"
+    compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.helloandroidapp"
+        applicationId = "com.example.hello"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 

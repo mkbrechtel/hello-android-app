@@ -1,4 +1,4 @@
-package com.example.helloandroidapp.ui.theme
+package com.example.hello.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
